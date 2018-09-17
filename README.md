@@ -1,1 +1,1 @@
-"# MassDelete-Telegram-Discord" 
+# MassDelete-Telegram-Discord
